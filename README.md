@@ -1,2 +1,2 @@
-# hatere
-React client app consuming using Hateoas API
+# hateRe
+React client app using Hateoas API
